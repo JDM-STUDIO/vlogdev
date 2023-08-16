@@ -19,6 +19,7 @@ const inputStyle = css`
 
 interface Props {
   user: any;
+  test?: any
 };
 type ChannelInfoKeys = 'channelId' | 'channelTitle' | 'group';
 

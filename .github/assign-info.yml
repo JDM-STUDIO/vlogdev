@@ -1,1 +1,6 @@
 addAssignees: author
+
+addReviewers: true
+
+reviewers:
+  - JDM-STUDIO/fe

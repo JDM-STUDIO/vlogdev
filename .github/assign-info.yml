@@ -1,6 +1,6 @@
-addAssignees: author
-
 addReviewers: true
 
+addAssignees: author
+
 reviewers:
-  - fe
+  - jdm85kor
